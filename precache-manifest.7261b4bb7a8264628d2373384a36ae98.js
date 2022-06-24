@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9a355455466bfdd37e6d6add8a062fb0",
+    "revision": "4e28a1b6eff7a3d79b863e02f193b5a4",
     "url": "/praveenaResume/index.html"
   },
   {
-    "revision": "c85b0d31833dd9aef21e",
+    "revision": "9a0fcc592db85b11fff6",
     "url": "/praveenaResume/static/css/main.d9eac4b3.chunk.css"
   },
   {
-    "revision": "024aa67315d06dbabaee",
-    "url": "/praveenaResume/static/js/2.17a15a88.chunk.js"
+    "revision": "014b4c147c78a38d9da1",
+    "url": "/praveenaResume/static/js/2.0a8abd56.chunk.js"
   },
   {
-    "revision": "c85b0d31833dd9aef21e",
-    "url": "/praveenaResume/static/js/main.a9634082.chunk.js"
+    "revision": "9a0fcc592db85b11fff6",
+    "url": "/praveenaResume/static/js/main.c3f26147.chunk.js"
   },
   {
-    "revision": "f33ba31b6ccc619ca653",
-    "url": "/praveenaResume/static/js/runtime-main.d712844e.js"
+    "revision": "5e0cca7f3abbcc3c9c59",
+    "url": "/praveenaResume/static/js/runtime-main.354862f5.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
