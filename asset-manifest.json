@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/praveenaResume/static/css/main.d9eac4b3.chunk.css",
+    "main.js": "/praveenaResume/static/js/main.c6663d23.chunk.js",
+    "main.js.map": "/praveenaResume/static/js/main.c6663d23.chunk.js.map",
+    "runtime-main.js": "/praveenaResume/static/js/runtime-main.d712844e.js",
+    "runtime-main.js.map": "/praveenaResume/static/js/runtime-main.d712844e.js.map",
+    "static/js/2.3560a5d0.chunk.js": "/praveenaResume/static/js/2.3560a5d0.chunk.js",
+    "static/js/2.3560a5d0.chunk.js.map": "/praveenaResume/static/js/2.3560a5d0.chunk.js.map",
+    "index.html": "/praveenaResume/index.html",
+    "precache-manifest.3bf5eb1b00b52ef245c704489d76c92d.js": "/praveenaResume/precache-manifest.3bf5eb1b00b52ef245c704489d76c92d.js",
+    "service-worker.js": "/praveenaResume/service-worker.js",
+    "static/css/main.d9eac4b3.chunk.css.map": "/praveenaResume/static/css/main.d9eac4b3.chunk.css.map",
+    "static/media/index.css": "/praveenaResume/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/about.gif": "/praveenaResume/static/media/about.4f9cf083.gif",
+    "static/media/advity.webp": "/praveenaResume/static/media/advity.b5761f7d.webp",
+    "static/media/animated_logo.svg": "/praveenaResume/static/media/animated_logo.dcd6dee2.svg",
+    "static/media/banner.gif": "/praveenaResume/static/media/banner.b1f01ad0.gif",
+    "static/media/banner2.gif": "/praveenaResume/static/media/banner2.1b0047f7.gif",
+    "static/media/contact.gif": "/praveenaResume/static/media/contact.2d3c486a.gif",
+    "static/media/all.css": "/praveenaResume/static/media/fa-solid-900.8e4a6dcc.eot",
+    "static/media/github_logo.png": "/praveenaResume/static/media/github_logo.6eeb2e81.png",
+    "static/media/logixstic.png": "/praveenaResume/static/media/logixstic.bb752afb.png",
+    "static/media/looder.gif": "/praveenaResume/static/media/looder.6692dc7c.gif",
+    "static/media/mypic.jpg": "/praveenaResume/static/media/mypic.00de9022.jpg",
+    "static/media/projects.gif": "/praveenaResume/static/media/projects.c8651c31.gif",
+    "static/media/testsigma-logo.svg": "/praveenaResume/static/media/testsigma-logo.c0c8218e.svg",
+    "static/media/whaticando.gif": "/praveenaResume/static/media/whaticando.d48164fb.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d712844e.js",
+    "static/js/2.3560a5d0.chunk.js",
+    "static/css/main.d9eac4b3.chunk.css",
+    "static/js/main.c6663d23.chunk.js"
+  ]
+}
