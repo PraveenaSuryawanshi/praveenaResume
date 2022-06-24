@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/praveenaResume/static/css/main.d9eac4b3.chunk.css",
-    "main.js": "/praveenaResume/static/js/main.7d7ac3bb.chunk.js",
-    "main.js.map": "/praveenaResume/static/js/main.7d7ac3bb.chunk.js.map",
+    "main.js": "/praveenaResume/static/js/main.a9634082.chunk.js",
+    "main.js.map": "/praveenaResume/static/js/main.a9634082.chunk.js.map",
     "runtime-main.js": "/praveenaResume/static/js/runtime-main.d712844e.js",
     "runtime-main.js.map": "/praveenaResume/static/js/runtime-main.d712844e.js.map",
-    "static/js/2.3560a5d0.chunk.js": "/praveenaResume/static/js/2.3560a5d0.chunk.js",
-    "static/js/2.3560a5d0.chunk.js.map": "/praveenaResume/static/js/2.3560a5d0.chunk.js.map",
+    "static/js/2.17a15a88.chunk.js": "/praveenaResume/static/js/2.17a15a88.chunk.js",
+    "static/js/2.17a15a88.chunk.js.map": "/praveenaResume/static/js/2.17a15a88.chunk.js.map",
     "index.html": "/praveenaResume/index.html",
-    "precache-manifest.b130029f4be30ce826c7ca48de8aed45.js": "/praveenaResume/precache-manifest.b130029f4be30ce826c7ca48de8aed45.js",
+    "precache-manifest.6c39c4b2e34a8cb7b8a87e664e19a7ee.js": "/praveenaResume/precache-manifest.6c39c4b2e34a8cb7b8a87e664e19a7ee.js",
     "service-worker.js": "/praveenaResume/service-worker.js",
     "static/css/main.d9eac4b3.chunk.css.map": "/praveenaResume/static/css/main.d9eac4b3.chunk.css.map",
     "static/media/index.css": "/praveenaResume/static/media/Montserrat-Regular.ee653992.ttf",
@@ -23,14 +23,15 @@
     "static/media/logixstic.png": "/praveenaResume/static/media/logixstic.bb752afb.png",
     "static/media/looder.gif": "/praveenaResume/static/media/looder.6692dc7c.gif",
     "static/media/mypic.jpg": "/praveenaResume/static/media/mypic.00de9022.jpg",
+    "static/media/ogimage.png": "/praveenaResume/static/media/ogimage.f29ea779.png",
     "static/media/projects.gif": "/praveenaResume/static/media/projects.c8651c31.gif",
     "static/media/testsigma-logo.svg": "/praveenaResume/static/media/testsigma-logo.c0c8218e.svg",
     "static/media/whaticando.gif": "/praveenaResume/static/media/whaticando.d48164fb.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.d712844e.js",
-    "static/js/2.3560a5d0.chunk.js",
+    "static/js/2.17a15a88.chunk.js",
     "static/css/main.d9eac4b3.chunk.css",
-    "static/js/main.7d7ac3bb.chunk.js"
+    "static/js/main.a9634082.chunk.js"
   ]
 }

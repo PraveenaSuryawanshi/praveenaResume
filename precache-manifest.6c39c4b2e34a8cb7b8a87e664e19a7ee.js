@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fd2e4439278a294e16b7f2a5da4b8f44",
+    "revision": "5a955ad44d86064d10e4186f3f174327",
     "url": "/praveenaResume/index.html"
   },
   {
-    "revision": "aea6ff9d35335a821682",
+    "revision": "c85b0d31833dd9aef21e",
     "url": "/praveenaResume/static/css/main.d9eac4b3.chunk.css"
   },
   {
-    "revision": "16a2f32905b056c7503c",
-    "url": "/praveenaResume/static/js/2.3560a5d0.chunk.js"
+    "revision": "024aa67315d06dbabaee",
+    "url": "/praveenaResume/static/js/2.17a15a88.chunk.js"
   },
   {
-    "revision": "aea6ff9d35335a821682",
-    "url": "/praveenaResume/static/js/main.7d7ac3bb.chunk.js"
+    "revision": "c85b0d31833dd9aef21e",
+    "url": "/praveenaResume/static/js/main.a9634082.chunk.js"
   },
   {
     "revision": "f33ba31b6ccc619ca653",
@@ -150,6 +150,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "00de9022bc2312a25b53f03d2a4846b5",
     "url": "/praveenaResume/static/media/mypic.00de9022.jpg"
+  },
+  {
+    "revision": "f29ea779ee10bc2dd471d0f4b88cdf74",
+    "url": "/praveenaResume/static/media/ogimage.f29ea779.png"
   },
   {
     "revision": "c8651c31340476d226f222001e255c1e",
