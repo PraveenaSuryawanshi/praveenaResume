@@ -22,6 +22,11 @@ export default class Main extends Component {
                   <Splash {...props} theme={this.props.theme} />
                 )}
               />
+                  <Route
+                path="/"
+                render={(props) => <Home {...props} theme={this.props.theme} />
+              }
+              />
               <Route
                 path="/praveenaResume/home"
                 render={(props) => <Home {...props} theme={this.props.theme} />}
@@ -52,11 +57,13 @@ export default class Main extends Component {
                   <Projects {...props} theme={this.props.theme} />
                 )}
               />
+          
               <Route
                 path="*"
                 render={(props) => (
                   <Error404 {...props} theme={this.props.theme} />
-                )}
+                )
+              }
               />
             </Switch>
           </BrowserRouter>
@@ -65,10 +72,10 @@ export default class Main extends Component {
     } else {
       return (
         <div>
-          <BrowserRouter basename="/">
+          <BrowserRouter basename="/praveenaResume">
             <Switch>
               <Route
-                path="/praveenaResume"
+                path="/praveenaResume/home"
                 exact
                 render={(props) => <Home {...props} theme={this.props.theme} />}
               />
