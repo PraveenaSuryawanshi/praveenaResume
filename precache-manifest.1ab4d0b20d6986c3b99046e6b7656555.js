@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6fd25968da0fbac66f2717fc64b99e1b",
+    "revision": "4761856fde838e45fd86f2e82c6562f3",
     "url": "/praveenaResume/index.html"
   },
   {
-    "revision": "692e794f02c6e31c00ea",
+    "revision": "9d6154d081c3b7c2fcc5",
     "url": "/praveenaResume/static/css/main.d9eac4b3.chunk.css"
   },
   {
-    "revision": "014b4c147c78a38d9da1",
-    "url": "/praveenaResume/static/js/2.0a8abd56.chunk.js"
+    "revision": "f033bfee1f6970991297",
+    "url": "/praveenaResume/static/js/2.46fdc233.chunk.js"
   },
   {
-    "revision": "692e794f02c6e31c00ea",
-    "url": "/praveenaResume/static/js/main.ffddcb45.chunk.js"
+    "revision": "9d6154d081c3b7c2fcc5",
+    "url": "/praveenaResume/static/js/main.8602c57a.chunk.js"
   },
   {
     "revision": "5e0cca7f3abbcc3c9c59",
@@ -50,6 +50,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
     "url": "/praveenaResume/static/media/Montserrat-Regular.ee653992.ttf"
+  },
+  {
+    "revision": "816906bc8adc3d4c7c5a2ca07022182a",
+    "url": "/praveenaResume/static/media/Resumenew.816906bc.pdf"
   },
   {
     "revision": "4f9cf083efd015a030bc98dd0581ae95",
