@@ -22,11 +22,7 @@ export default class Main extends Component {
                   <Splash {...props} theme={this.props.theme} />
                 )}
               />
-                  <Route
-                path="/"
-                render={(props) => <Home {...props} theme={this.props.theme} />
-              }
-              />
+            
               <Route
                 path="/praveenaResume/home"
                 render={(props) => <Home {...props} theme={this.props.theme} />}
@@ -75,7 +71,7 @@ export default class Main extends Component {
           <BrowserRouter basename="/praveenaResume">
             <Switch>
               <Route
-                path="/praveenaResume/home"
+                path="/praveenaResume"
                 exact
                 render={(props) => <Home {...props} theme={this.props.theme} />}
               />

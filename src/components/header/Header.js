@@ -18,7 +18,7 @@ const onMouseOut = (event) => {
 class Header extends Component {
   render() {
     const theme = this.props.theme;
-    const link = settings.isSplash ? "/praveenaResume/home" : "";
+    const link = settings.isSplash ? "home" : "home";
     return (
       <Fade top duration={1000} distance="20px">
         <SeoHeader />
